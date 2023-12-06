@@ -1,6 +1,6 @@
 # svg-animations
 
-Little SVG animation I made while learning.
+Little SVG animation I made while learning.\
 You can also learn how to make your own with [my article over here](https://levelup.gitconnected.com/making-your-first-svg-animations-d79aad48f014) 😉
 
 ![demo](https://jeremie-r.github.io/svg-animations/loading-svg.svg)
