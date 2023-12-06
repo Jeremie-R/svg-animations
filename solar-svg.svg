@@ -1,0 +1,89 @@
+<svg width="60" height="140" viewBox="0 0 60 140" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="solar">
+<g clip-path="url(#clip0)">
+<g id="element">
+<rect id="maskbg" width="60" height="140" rx="30" fill="#3E477B"/>
+<circle id="sun" cx="30" cy="147" r="37" fill="#FFD97E"/>
+<g id="stars">
+<path id="Star 5" d="M13.5 32L13.744 33.256L15 33.5L13.744 33.744L13.5 35L13.256 33.744L12 33.5L13.256 33.256L13.5 32Z" fill="#F8ECCF"/>
+<path id="Star 6" d="M36.5 21L36.744 22.256L38 22.5L36.744 22.744L36.5 24L36.256 22.744L35 22.5L36.256 22.256L36.5 21Z" fill="#F8ECCF"/>
+<path id="Star 7" d="M51.5 33L51.744 34.256L53 34.5L51.744 34.744L51.5 36L51.256 34.744L50 34.5L51.256 34.256L51.5 33Z" fill="#F8ECCF"/>
+<path id="Star 8" d="M46.5 54L46.744 55.256L48 55.5L46.744 55.744L46.5 57L46.256 55.744L45 55.5L46.256 55.256L46.5 54Z" fill="#F8ECCF"/>
+<path id="Star 9" d="M15.5 83L15.744 84.256L17 84.5L15.744 84.744L15.5 86L15.256 84.744L14 84.5L15.256 84.256L15.5 83Z" fill="#F8ECCF"/>
+<path id="Star 14" d="M36.5 7L36.744 8.25605L38 8.5L36.744 8.74395L36.5 10L36.256 8.74395L35 8.5L36.256 8.25605L36.5 7Z" fill="#F8ECCF"/>
+<path id="Star 12" d="M47.5 79L47.744 80.256L49 80.5L47.744 80.744L47.5 82L47.256 80.744L46 80.5L47.256 80.256L47.5 79Z" fill="#F8ECCF"/>
+<path id="Star 13" d="M39.5 103L39.744 104.256L41 104.5L39.744 104.744L39.5 106L39.256 104.744L38 104.5L39.256 104.256L39.5 103Z" fill="#F8ECCF"/>
+<path id="Star 10" d="M7.5 58L7.74395 59.256L9 59.5L7.74395 59.744L7.5 61L7.25605 59.744L6 59.5L7.25605 59.256L7.5 58Z" fill="#F8ECCF"/>
+<path id="Star 11" d="M26.5 55L26.744 56.256L28 56.5L26.744 56.744L26.5 58L26.256 56.744L25 56.5L26.256 56.256L26.5 55Z" fill="#F8ECCF"/>
+</g>
+<g id="mercury">
+<path id="mercurypath" d="M-6 109.5C-6 109.5 7.5 90 30.5 90C53.5 90 66.5 109.5 66.5 109.5" stroke="white" stroke-opacity="0.5" stroke-width="0.5"/>
+<circle id="mercury_2" cx="00" cy="00" r="2" fill="#2F2A2A">
+    <animateMotion 
+           dur="2s"
+           begin="0"
+           repeatCount="indefinite"
+           fill="freeze"
+            path="M-6 109.5C-6 109.5 7.5 90 30.5 90C53.5 90 66.5 109.5 66.5 109.5" />
+  />
+</circle>
+</g>
+<g id="mars">
+<path id="marspath" d="M-6 34.5C-6 34.5 7.5 15 30.5 15C53.5 15 66.5 34.5 66.5 34.5" stroke="white" stroke-opacity="0.5" stroke-width="0.5"/>
+<circle id="mars_2" cx="0" cy="0" r="2" fill="#FFD97E">
+ <animateMotion 
+           dur="5s"
+           begin="0"
+           repeatCount="indefinite"
+           fill="freeze"
+        path="M-6 34.5C-6 34.5 7.5 15 30.5 15C53.5 15 66.5 34.5 66.5 34.5" />
+  />
+</circle>
+</g>
+<g id="venus">
+<path id="venuspath" d="M-6 84.5C-6 84.5 7.5 65 30.5 65C53.5 65 66.5 84.5 66.5 84.5" stroke="white" stroke-opacity="0.5" stroke-width="0.5"/>
+<circle id="Venus" cx="0" cy="0" r="3" fill="#FC5FAB">
+<animateMotion 
+           dur="3s"
+           begin="0"
+           repeatCount="indefinite"
+           fill="freeze"
+        path="M-6 84.5C-6 84.5 7.5 65 30.5 65C53.5 65 66.5 84.5 66.5 84.5" />
+  />
+</circle>
+
+</g>
+<g id="earth">
+<path id="earthpath" d="M-6 59.5C-6 59.5 7.5 40 30.5 40C53.5 40 66.5 59.5 66.5 59.5" stroke="white" stroke-opacity="0.5" stroke-width="0.5"/>
+<g id="earth_2">
+<circle id="earth_3" cx="0" cy="0" r="4" fill="#90CDF9">
+<animateMotion 
+           dur="4s"
+           begin="0"
+           repeatCount="indefinite"
+           fill="freeze"
+        path="M-6 59.5C-6 59.5 7.5 40 30.5 40C53.5 40 66.5 59.5 66.5 59.5" />
+  />
+</circle>
+
+</g>
+</g>
+</g>
+<g id="overlay">
+<path id="Border" fill-rule="evenodd" clip-rule="evenodd" d="M56 110V30C56 15.6406 44.3594 4 30 4C15.6406 4 4 15.6406 4 30V110C4 124.359 15.6406 136 30 136C44.3594 136 56 124.359 56 110ZM30 0C13.4315 0 0 13.4315 0 30V110C0 126.569 13.4315 140 30 140C46.5685 140 60 126.569 60 110V30C60 13.4315 46.5685 0 30 0Z" fill="url(#paint0_linear)" fill-opacity="0.4"/>
+<circle id="large light" cx="19.5" cy="14.5" r="5.5" fill="white" fill-opacity="0.7"/>
+<circle id="mini light" cx="24" cy="16" r="2" fill="white" fill-opacity="0.8"/>
+<path id="sidemoon" d="M46 127C39 133.5 26.5 137 12 125.5C31 128.5 48 114.5 54 96C53.5 113.5 53 120.5 46 127Z" fill="white" fill-opacity="0.1"/>
+</g>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="0.500001" y1="0.999999" x2="60" y2="140" gradientUnits="userSpaceOnUse">
+<stop stop-color="white" stop-opacity="0.8"/>
+<stop offset="1" stop-color="white" stop-opacity="0.5"/>
+</linearGradient>
+<clipPath id="clip0">
+<rect width="60" height="140" rx="30" fill="white"/>
+</clipPath>
+</defs>
+</svg>
