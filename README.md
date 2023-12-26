@@ -1,7 +1,8 @@
 # svg-animations
 
-Little SVG animation I made while learning.\
-You can also learn how to make your own with [my article over here](https://levelup.gitconnected.com/making-your-first-svg-animations-d79aad48f014?sk=0fb4b34149239280a82a3852acabc1a1/)
+Animated SVG.
+
+You can learn  to make your own with [my article here](https://levelup.gitconnected.com/making-your-first-svg-animations-d79aad48f014?sk=0fb4b34149239280a82a3852acabc1a1/)
 
 | Loading | fish | light | solar |
 | ----------- | ----------- | ----------- | ----------- |
